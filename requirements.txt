@@ -2,3 +2,6 @@ langchain
 langchain_openai
 pymupdf
 PyPDF2
+os
+langchain_community
+shutil
